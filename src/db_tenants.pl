@@ -1,0 +1,3 @@
+:- dynamic tenants/3.
+
+

@@ -1,0 +1,3 @@
+:- dynamic bookings/3.
+
+
